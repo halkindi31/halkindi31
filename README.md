@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Hassena Khalfan Alkindi! 👋
 
-<!--
-**halkindi31/halkindi31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HR Professional | Cloud Computing Trainee (AWS) | Tech Enthusiast | Actively seeking opportunities**
 
-Here are some ideas to get you started:
+I'm passionate about combining my human resources experience with the power of cloud computing to create smart, scalable solutions for people and businesses. Currently enrolled in the **AWS Cloud Computing Program by Manara**, I’m building real-world projects and strengthening my skills daily.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+- **AWS 2: Becoming a Solutions Architect**  
+  [View Live Project](https://halkindi31.github.io/AWS-2-Becoming-a-Solutions-Architect/)  
+  Hands-on portfolio using HTML & CSS hosted on GitHub Pages.  
+  Showcases core AWS services: EC2, S3, IAM, RDS.
+
+---
+
+## 🌱 Currently Learning
+
+- AWS EC2, S3, IAM, RDS
+- Solutions Architecture basics
+- Cloud deployment & automation
+- Git, GitHub, and open-source collaboration
+
+---
+
+## 💡 Skills
+
+- HR & Admin Operations
+- Git & GitHub
+- HTML & CSS
+- AWS Fundamentals
+- Project Documentation
+- Customer Service Excellence
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/hassenakhalfanalkindi/)
+- [GitHub](https://github.com/halkindi31)
+
+---
+
+**"Learning something new every day, because growth has no finish line."**
