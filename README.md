@@ -19,7 +19,10 @@ This portfolio contains selected materials related to my participation in the AW
 - **UAE Codes Certificate** – Recognized for AI-based innovation and coding from scratch  
 - **Interviewing & Selection Course** – Aug 2023  
 - **Administrative Skills & Management Techniques** – Aug 2023  
-
+▪ Human Resources: Understanding HR Systems Features and Benefits  
+  - LinkedIn Learning – Completed on May 30, 2025  
+  - Recognized by SHRM® – 1.00 PDC (Activity #: 25-MZP9T)  
+  - Pre-approved by HRCI® – 1.00 Recertification Credit (Activity #: 691219)  
 ---
 
 ### **Volunteer Experience**
